@@ -1,0 +1,1 @@
+# Lógica de manipulação de dados e IA
