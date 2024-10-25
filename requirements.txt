@@ -1,1 +1,11 @@
 # Dependências do projeto
+tensorflow # IA e Machine Learnin
+fastapi # Criar API RESTful
+uvicorn # Servidor ASGI para rodar API
+pandas # Manipulação de dados
+numpy # Manipulação de dados
+scikit-learn # Funcionalidades de ML básico e pré-processamento dos dados
+sqlalchemy # Conexão com o BD PostgreSQL
+psycop2-binary # Driver PostgreSQL para o projeto Python
+
+# pip install tensorflow fastapi uvicorn pandas numpy scikit-learn sqlalchemy psycopg2-binary
